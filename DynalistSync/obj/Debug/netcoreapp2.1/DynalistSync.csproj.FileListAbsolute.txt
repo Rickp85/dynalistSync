@@ -1,0 +1,14 @@
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/bin/Debug/netcoreapp2.1/DynalistSync.deps.json
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/bin/Debug/netcoreapp2.1/DynalistSync.runtimeconfig.json
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/bin/Debug/netcoreapp2.1/DynalistSync.runtimeconfig.dev.json
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/bin/Debug/netcoreapp2.1/DynalistSync.dll
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/bin/Debug/netcoreapp2.1/DynalistSync.pdb
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.csprojAssemblyReference.cache
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.csproj.CoreCompileInputs.cache
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.RazorAssemblyInfo.cache
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.RazorAssemblyInfo.cs
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.AssemblyInfoInputs.cache
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.AssemblyInfo.cs
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.RazorTargetAssemblyInfo.cache
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.dll
+/Users/Ricky1/Projects/DynalistSync/DynalistSync/obj/Debug/netcoreapp2.1/DynalistSync.pdb
